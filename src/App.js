@@ -79,7 +79,7 @@ const App = () => {
           <p className="text-lg font-semibold text-gray-600 mb-2">
             {`${episodes.length} episodes`}
           </p>
-          <div className="text-gray-500 mb-2 border-2 grid grid-cols-2 lg:grid-cols-3 gap-2 text-center">
+          <div className="text-gray-500 mb-2 grid grid-cols-2 lg:grid-cols-3 gap-2 text-center">
             {tags.map((tag, i) => (
               <span key={i} className="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-1.5 rounded-full">
                 {tag}
