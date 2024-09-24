@@ -71,9 +71,9 @@ const App = () => {
           <img src="/images/favicon.ico" alt='Blood of Zeus' className='border-2 rounded-lg shadow-md w-full' />
         </div>
         <div className='flex flex-col justify-center'>
-          <h1 className="text-6xl font-bold mb-4 text-blue-800 text-left cursive animate-pulse"> &#9829;For Mima&#9829;</h1>
-          <h1 className="text-4xl font-bold mb-4 text-gray-800 text-left">Blood of Zeus</h1>
-          <p className="text-lg text-gray-700 mb-2">
+          <h1 className="text-2xl lg:text-6xl font-bold mb-4 text-blue-800 text-left cursive animate-pulse"> &#9829;For Mima&#9829;</h1>
+          <h1 className="text-4xl font-bold mb-4 text-gray-800 text-center">Blood of Zeus</h1>
+          <p className="text-lg text-justify text-gray-700 mb-2">
             A commoner living in ancient Greece, Heron discovers his true heritage as a son of Zeus, and his purpose: to save the world from a demonic army.
           </p>
           <p className="text-lg font-semibold text-gray-600 mb-2">
